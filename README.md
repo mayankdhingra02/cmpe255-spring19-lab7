@@ -1,6 +1,7 @@
 # cmpe255-spring19-lab7
 Name- Mayank Dhingra
 SJSU Id- 013773942
+All The plots are in the .ipynb file
 Polynomial Kernel
 [[ 9  0  0]
  [ 0 12  1]
